@@ -138,7 +138,7 @@ function App() {
                 Yaad hai na? 👀
                 <br /><br />
                 I had never thought we'll come this long! A simple Hi, and see, 
-                where are we heading to now 😁🧿
+                where we are heading to now 😁🧿
               </p>
 
               <button
