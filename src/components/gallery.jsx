@@ -20,7 +20,7 @@ const memories = [
   {
     image: photo1,
     title: "❤️ The Beginning",
-    caption: "Every beautiful story starts with one unforgettable moment."
+    caption: "Every beautiful story starts with one unforgettable moment. "
   },
   {
     image: photo2,
@@ -29,8 +29,8 @@ const memories = [
   },
   {
     image: photo3,
-    title: "💕 Together",
-    caption: "Every moment with you became a memory worth keeping."
+    title: "💕",
+    caption: "Your smile soothes me like nothing else ever could. ❤️"
   },
   {
     image: photo4,
@@ -40,12 +40,12 @@ const memories = [
   {
     image: photo5,
     title: "💖 My Favourite Person",
-    caption: "No matter where we are, you're my home."
+    caption: "No matter what, you're my my comfort space."
   },
   {
     image: photo6,
-    title: "🌍 Adventure",
-    caption: "Every journey was magical with you beside me."
+    title: "🎀🤌🏻🧿✨",
+    caption: "Hoping every journey to be magical with you beside me."
   },
   {
     image: photo7,
@@ -59,18 +59,18 @@ const memories = [
   },
   {
     image: photo9,
-    title: "✨ Precious Memory",
-    caption: "Some moments deserve to last forever."
+    title: "✨ This Precious Smile",
+    caption: "Have to keep this smile protected 🤝"
   },
   {
     image: photo10,
-    title: "🌹 Always You",
+    title: "Mera angry bird 🐥",
     caption: "If I had to choose again, I'd still choose you."
   },
   {
     image: photo11,
-    title: "📖 Our Story",
-    caption: "Still my favourite love story."
+    title: "📖 Story",
+    caption: "I remember every single moment you've shared with me"
   },
   {
     image: photo12,
@@ -84,8 +84,8 @@ const memories = [
   },
   {
     image: photo14,
-    title: "🎂 Birthday Memories",
-    caption: "Celebrating the most beautiful person in my life."
+    title: " Remember this photo? 😁🧿",
+    caption: "Promise to click your candid photos life-time"
   },
   {
     image: photo15,

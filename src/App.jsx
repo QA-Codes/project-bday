@@ -135,13 +135,10 @@ function App() {
               </h1>
 
               <p className="subtitle">
-                Sometimes one simple conversation
-                changes everything.
+                Yaad hai na? 👀
                 <br /><br />
-                That moment became the beginning
-                of endless smiles,
-                unforgettable memories,
-                and a beautiful journey together.
+                I had never thought we'll come this long! A simple Hi, and see, 
+                where are we heading to now 😁🧿
               </p>
 
               <button
@@ -169,7 +166,8 @@ function App() {
               <p className="subtitle">
                 Slowly...
                 <br />
-                Without even realizing it...
+                I realised that I'm falling for you, and that was so beautiful to feel. 🫠🤌🏻💗
+                Your way of thinking, your responsible nature, your innocent smile! All this made it easier to fall for you.  
                 <br /><br />
                 You became the first person
                 I wanted to talk to every day.
@@ -201,7 +199,7 @@ function App() {
             <div className="overlay">
 
               <h3 className="tag">
-                💌 A Letter From My Heart
+                💌 I know I'm not expressive, but please padh lo patiently 👀
               </h3>
 
               <h1 className="title">
@@ -216,22 +214,21 @@ function App() {
 
                 Thank you for every smile,
                 every laugh,
-                every hug,
+                every single of appriciation you gave,
                 and every little moment
                 that became a beautiful memory.
 
                 <br /><br />
 
-                You have filled my life
-                with happiness in ways
-                words can never describe.
+                I'm very proud of you for whatever you're doing in life.
+                And promise to be supportive in all your phases 🤗 
+                 
 
                 <br /><br />
 
                 On your birthday,
                 I just want you to know
-                how deeply you are loved. I promise to be with you, 
-                no matter what.
+                how deeply you are loved. 
 
                 <br /><br />
 
